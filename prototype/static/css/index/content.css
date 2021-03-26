@@ -1,0 +1,150 @@
+
+/*
+    ---
+*/
+
+.old-style-border{
+    border-top: rgb(20, 20, 20) 5px solid;
+    border-left: rgb(20, 20, 20) 5px solid;
+    border-right: rgb(100, 100, 100) 5px solid;
+    border-bottom: rgb(100, 100, 100) 5px solid;
+
+}
+
+#content-block{
+
+    text-align: center;
+
+    height:97%;
+
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 10px;
+    margin-top: 1%;
+
+
+    background-color: rgba(30,40,35, 0.9);
+}
+
+.text{
+    font-family: 'Overpass Mono', monospace;
+    color: rgb(220, 220, 220);
+    font-size: 25px;
+}
+
+/* ============================================*/
+
+#realname{
+    
+    /* border: black 2px solid; */
+    
+    color: rgb(26, 220, 80);
+    text-shadow: black 4px 4px;
+    letter-spacing: 10px; 
+    margin-top: 30px;
+    font-size: 70px;
+}
+
+#username{
+    /*border: black 2px solid; */
+    font-size: 30px; 
+    margin-top: 15px;
+    margin-top: -60px;
+    word-spacing: 25px;
+    letter-spacing: 10px;
+    text-shadow: black 3px 3px;
+}
+
+#logos{
+    padding-top: 7px;
+}
+
+#github-logo{
+    width: 72px;
+    height: 72px;
+}
+
+.page-search-label{
+    margin-top: 45px;
+    font-size: 19px;
+    text-shadow: black 2px 2px;
+}
+
+#navtext{
+    float: left;
+    margin-left: 13%;
+}
+
+#searchtext{
+    float: right;
+    margin-right: 14%;
+}
+
+#page-search{
+
+    text-align: left;
+
+    margin-top: 72px;
+    height: 50px;
+    width: 60%;
+
+    margin-top: -18px;
+
+    background-color: rgb(40, 50, 45);
+    border-top: rgb(100, 100, 100) 4px solid;
+    border-left: rgb(100, 100, 100) 4px solid;
+    border-right: rgb(20, 20, 20) 4px solid;
+    border-bottom: rgb(20, 20, 20) 4px solid;
+
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+
+    color: rgb(110, 110, 110)
+}
+
+#page-search:focus{
+    border-top: rgb(20, 20, 20) 4px solid;
+    border-left: rgb(20, 20, 20) 4px solid;
+    border-right: rgb(100, 100, 100) 4px solid;
+    border-bottom: rgb(100, 100, 100) 4px solid;
+    outline: 0;
+    color: rgb(190, 190, 190)
+}
+
+.button{
+
+    font-family: 'Overpass Mono', monospace;
+
+
+    font-size: 18px;
+    text-shadow: black 2px 1px;
+
+    height: 50px;
+    width: 150px;
+
+
+    background-color: rgb(50, 80, 70);
+    border-top: rgb(100, 100, 100) 4px solid;
+    border-left: rgb(100, 100, 100) 4px solid;
+    border-right: rgb(20, 20, 20) 4px solid;
+    border-bottom: rgb(20, 20, 20) 4px solid;
+    outline:0;
+
+    color: rgb(220, 220, 220);
+} 
+
+.button:active{
+    background-color: rgb(35, 65, 55);
+    border-top: rgb(20, 20, 20) 4px solid;
+    border-left: rgb(20, 20, 20) 4px solid;
+    border-right: rgb(100, 100, 100) 4px solid;
+    border-bottom: rgb(100, 100, 100) 4px solid;
+
+    text-shadow: black 3px 3px;
+}
+
+#search-button{
+    margin-left: 10px;
+}
