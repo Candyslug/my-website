@@ -78,17 +78,18 @@
 #searchtext{
     float: right;
     margin-right: 14%;
+    outline: black 2px solid;
 }
 
 #page-search{
 
     text-align: left;
 
-    margin-top: 72px;
     height: 50px;
     width: 60%;
 
-    margin-top: -18px;
+    margin-top: 73px;
+    margin-left: -22.5%;
 
     background-color: rgb(40, 50, 45);
     border-top: rgb(100, 100, 100) 4px solid;
@@ -122,7 +123,7 @@
     text-shadow: black 2px 1px;
 
     height: 50px;
-    width: 150px;
+    width: 140px;
 
 
     background-color: rgb(50, 80, 70);
@@ -146,5 +147,28 @@
 }
 
 #search-button{
-    margin-left: 10px;
+    margin-left: -120px;
+    margin-top: 74px;
+    margin-right: 13%;
+    float: right;
+    padding-top:3px;
+}
+
+#search-results{
+    margin-top: 20px;
+    margin-left: 13%;
+    margin-right: 13%;
+    height: 400px;
+
+    background-color: rgb(50, 70, 60);
+
+    text-align: left;
+
+    padding: 10px 10px 10px 10px;
+
+    height: 475px;
+}
+
+a{
+    color: white
 }
