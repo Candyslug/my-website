@@ -1,4 +1,4 @@
-<p>This is a website I am developing using Express JS</p>
+<p>This is a basic website I am developing using Express JS</p>
 
 <br>
 
