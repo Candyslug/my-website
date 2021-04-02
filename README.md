@@ -1,11 +1,13 @@
-<p>This is a basic website I am developing using Express JS</p>
+
+
+<p>This is a weird website prototype I developed to experiment with ExpressJS.</p>
 
 <br>
 
-<p>It serves as a project to help me learn web development</p>
+<p>No longer continuing development with the project.</p>
 
 <br>
 
-<p>It is not currently running publicly, but the source code can be viewed here</p>
+<p>It is not currently running publicly, but the source code can be viewed here!</p>
 
 
